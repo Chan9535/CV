@@ -51,7 +51,7 @@ hr {
   margin: 0;
   font-family: 'Old Standard TT', serif;
   padding-top: 50px;
-  margin-left: 1000px;
+  margin-right: 1000px;
 }
 
 .thought1 {
@@ -60,7 +60,7 @@ hr {
   margin: 0;
   font-family: 'Sacramento', cursive;
   font-size: 25px;
-  margin-left: 1020px;
+  margin-right: 1020px;
 }
 
 span {
@@ -72,7 +72,7 @@ span {
   width: 100%;
   max-width: 1920px;
   min-width: 300px;
-  overflow: hidden;
+  overflow:  visible;
   background-color: #e0ebe8;
 }
 
